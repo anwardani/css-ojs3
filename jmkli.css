@@ -1,6 +1,6 @@
 .journals ul .body .description a {display: inline;}
 
-body { background: #64d3e6; }
+body { background-image: url(http://www.mevjournal.com/plugins/themes/spica/imgs/noisy_grid.png); }
 
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 html, body, * {font-family: 'Roboto', serif !important}
@@ -28,7 +28,7 @@ html, body, * {font-family: 'Roboto', serif !important}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper .pkp_search .search_controls a.headerSearchPrompt.search_prompt {font-family: 'Roboto', serif !important; color: #FFFFFF !important}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper .pkp_search.is_open input[type=text] {font-family: 'Roboto', serif !important;}
 
-.pkp_structure_page {margin:auto; width: 1162px; padding-bottom: 0 !important; border-left: 1px solid gray; border-right: 1px solid gray; background-image: url(http://www.mevjournal.com/plugins/themes/spica/imgs/noisy_grid.png);}
+.pkp_structure_page {margin:auto; width: 1162px; padding-bottom: 0 !important; border-left: 1px solid gray; border-right: 1px solid gray; background: #fff; }
 .pkp_structure_content { padding-top: 0; }
 .pkp_structure_sidebar { margin-top: -30px; }
 .pkp_structure_sidebar .pkp_block .title {font-family: 'Roboto', serif !important;}
