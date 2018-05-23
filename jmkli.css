@@ -31,7 +31,7 @@ html, body, * {font-family: 'Roboto', serif !important}
 
 .pkp_structure_page {margin:auto; width: 1160px; padding-bottom: 0 !important; background: #fff;}
 .pkp_structure_content { padding-top: 0; }
-
+.pkp_structure_sidebar { margin-top: -30px; }
 .pkp_structure_sidebar .pkp_block .title {font-family: 'Roboto', serif !important;}
 h1,h2,h3,h4,h5,h6 {font-family: 'Roboto', serif !important;}
 .pkp_block {margin: 0 !important}
