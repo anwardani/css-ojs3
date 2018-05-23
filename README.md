@@ -1,4 +1,4 @@
-# CSS Host for OJS 3
+# CSS OJS 3
 Host of css for custom theme for OJS 3.x
 
 ## Sponsorship
