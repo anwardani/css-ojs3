@@ -3,9 +3,9 @@
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 html, body, * {font-family: 'Roboto', serif !important}
 
-.pkp_site_name {margin: -40px 0 -12px 0;}
+.pkp_site_name {margin: -40px 0 0 0;}
 .pkp_site_name > a {padding-top: 0; padding-bottom: 0;}
-.pkp_site_name .is_img img {display: block; max-height: auto; max-width: auto; width: auto; height: auto; }
+.pkp_site_name .is_img img {max-height: 100%; max-width: 100%; }
 .pkp_site_name_wrapper {padding-left: 0; padding-right: 0; margin: -40px 0 -12px 0;}
 .pkp_navigation_user_wrapper {top: 0; right: 0; padding-right:30px;}
 .pkp_navigation_user_wrapper .pkp_navigation_user {font-family: 'Roboto', serif !important; font-weight: normal;}
@@ -13,7 +13,7 @@ html, body, * {font-family: 'Roboto', serif !important}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > a { font-family: 'Roboto', serif !important; font-weight: normal !important; padding-right: 10px; box-shadow: 0 0 10px rgba(0,0,0,.5)}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu { border-radius: 0 !important;}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu > li > a { font-family: 'Roboto', serif !important; font-weight: normal !important;}
-
+.pkp_navigation_user { padding-right: 10px; }
 .pkp_navigation_primary_row {background: #398794 !important;}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li {padding: 0 !important;margin: 0 !important;}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li a {margin: 0 !important; padding: 0 10px !important; line-height: 40px !important; }
@@ -28,7 +28,6 @@ html, body, * {font-family: 'Roboto', serif !important}
 
 .pkp_structure_page {margin:auto; width: 1162px; padding-bottom: 0 !important; border-left: 1px solid gray; border-right: 1px solid gray; background: #fff; }
 .pkp_structure_content { padding-top: 0; }
-.pkp_structure_sidebar { margin-top: -30px; }
 .pkp_structure_sidebar .pkp_block .title {font-family: 'Roboto', serif !important;}
 h1,h2,h3,h4,h5,h6 {font-family: 'Roboto', serif !important;}
 .pkp_block {margin: 0 !important}
