@@ -11,7 +11,7 @@ html, body, * {font-family: 'Roboto', serif !important}
 .pkp_site_name_wrapper {padding-left: 0; padding-right: 0;}
 .pkp_navigation_user_wrapper {top: 0; right: 0; padding-right:30px;}
 .pkp_navigation_user_wrapper .pkp_navigation_user {font-family: 'Roboto', serif !important; font-weight: normal;}
-.pkp_navigation_user_wrapper .pkp_navigation_user > li.profile { font-family: 'Roboto', serif !important; background: #ec3237; }
+.pkp_navigation_user_wrapper .pkp_navigation_user > li.profile { font-family: 'Roboto', serif !important; background: #398794; }
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > a { font-family: 'Roboto', serif !important; font-weight: normal !important; padding-right: 10px; box-shadow: 0 0 10px rgba(0,0,0,.5)}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu { border-radius: 0 !important;}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu > li > a { font-family: 'Roboto', serif !important; font-weight: normal !important;}
