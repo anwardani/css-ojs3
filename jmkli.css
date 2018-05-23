@@ -8,7 +8,7 @@ html, body, * {font-family: 'Roboto', serif !important}
 .pkp_site_name {margin: -40px 0 -12px 0;}
 .pkp_site_name > a {padding-top: 0; padding-bottom: 0;}
 .pkp_site_name .is_img img {display: block; max-height: auto; max-width: auto; width: auto; height: auto; }
-.pkp_site_name_wrapper {padding-left: 0; padding-right: 0;}
+.pkp_site_name_wrapper {padding-left: 0; padding-right: 0; margin: -40px 0 -12px 0;}
 .pkp_navigation_user_wrapper {top: 0; right: 0; padding-right:30px;}
 .pkp_navigation_user_wrapper .pkp_navigation_user {font-family: 'Roboto', serif !important; font-weight: normal;}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile { font-family: 'Roboto', serif !important; background: #398794; }
