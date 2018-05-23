@@ -2,6 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Sunflower:300');
 html, body, * {font-family: 'Sunflower', helvetica; }
+body {background-image: url(http://www.mevjournal.com/plugins/themes/spica/imgs/noisy_grid.png);}
 
 .pkp_site_name {margin: -40px 0 0 0;}
 .pkp_site_name > a {padding-top: 0; padding-bottom: 0;}
