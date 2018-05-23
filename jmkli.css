@@ -1,7 +1,5 @@
 .journals ul .body .description a {display: inline;}
 
-body { background-image: url(http://www.mevjournal.com/plugins/themes/spica/imgs/noisy_grid.png); }
-
 @import url('https://fonts.googleapis.com/css?family=Roboto');
 html, body, * {font-family: 'Roboto', serif !important}
 
