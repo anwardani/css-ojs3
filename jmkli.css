@@ -16,7 +16,6 @@ html, body, * {font-family: 'Roboto', serif !important}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu { border-radius: 0 !important;}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu > li > a { font-family: 'Roboto', serif !important; font-weight: normal !important;}
 
-
 .pkp_navigation_primary_row {background: #398794 !important;}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li {padding: 0 !important;margin: 0 !important;}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li a {margin: 0 !important; padding: 0 10px !important; line-height: 40px !important; }
@@ -29,7 +28,7 @@ html, body, * {font-family: 'Roboto', serif !important}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper .pkp_search .search_controls a.headerSearchPrompt.search_prompt {font-family: 'Roboto', serif !important; color: #FFFFFF !important}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper .pkp_search.is_open input[type=text] {font-family: 'Roboto', serif !important;}
 
-.pkp_structure_page {margin:auto; width: 1160px; padding-bottom: 0 !important; background: #fff;}
+.pkp_structure_page {margin:auto; width: 1162px; padding-bottom: 0 !important; border-left: 1px solid gray; border-right: 1px solid gray; background-image: url(http://www.mevjournal.com/plugins/themes/spica/imgs/noisy_grid.png);}
 .pkp_structure_content { padding-top: 0; }
 .pkp_structure_sidebar { margin-top: -30px; }
 .pkp_structure_sidebar .pkp_block .title {font-family: 'Roboto', serif !important;}
