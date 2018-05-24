@@ -9,13 +9,13 @@ body {background-image: url(https://anwardani.github.io/css-ojs3/noisy_grid.png)
 .pkp_site_name_wrapper {padding-left: 0; padding-right: 0; margin: 0;}
 .pkp_site_name .is_img img {max-height: 100%; max-width: 100%; }
 
-.pkp_navigation_user_wrapper {top: 0; right: 0; padding:0; border-bottom: 2px solid #fff;}
+.pkp_navigation_user_wrapper {top: 0; right: 0; padding:0;}
 .pkp_navigation_user_wrapper .pkp_navigation_user {font-family: Sunflower, helvetica, calibri ; font-weight: normal;}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile { font-family: Sunflower, helvetica, calibri; background: #398794; color:#fff }
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > a { font-family: Sunflower, helvetica, calibri ; font-weight: normal !important; padding-right: 10px; color:#fff}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu { border-radius: 0 !important;}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu > li > a { font-family: Sunflower, helvetica, calibri ; font-weight: normal !important;}
-.pkp_navigation_user { background: #398794; }
+.pkp_navigation_user { background: #398794; border-bottom: 2px solid #fff;}
 .pkp_navigation_user > li > a, .pkp_navigation_user > li.in_focus > a, .pkp_navigation_user > li > a:hover, .pkp_navigation_user > li > a:focus { color: #fff; }
 
 .pkp_navigation_primary_row {background: #398794 !important;}
