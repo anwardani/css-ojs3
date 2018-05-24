@@ -35,7 +35,7 @@ body {background-image: url(https://anwardani.github.io/css-ojs3/noisy_grid.png)
 .pkp_structure_sidebar .pkp_block .title {font-family: 'Sunflower', helvetica, calibri;}
 h1,h2,h3,h4,h5,h6 {font-family: 'Sunflower', helvetica, calibri;}
 
-@media (min-width: 1024px) {
+@media (max-width: 1000px) {
 .pkp_structure_page {margin:auto; width: 100%; }
 }
 
