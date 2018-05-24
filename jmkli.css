@@ -34,6 +34,11 @@ body {background-image: url(https://anwardani.github.io/css-ojs3/noisy_grid.png)
 .pkp_structure_content { padding-top: 0; }
 .pkp_structure_sidebar .pkp_block .title {font-family: 'Sunflower', helvetica, calibri;}
 h1,h2,h3,h4,h5,h6 {font-family: 'Sunflower', helvetica, calibri;}
+
+@media (min-width: 1024px) {
+.pkp_structure_page {margin:auto; width: 100%; }
+}
+
 .pkp_block {margin: 0 !important}
 #customblock-Sidebar_menu.pkp_block {margin: 0 !important; padding: 0 !important}
 #customblock-Sidebar_menu.pkp_block ul, #customblock-Sidebar_menu.pkp_block ul li {margin: 0 !important; padding: 0 !important; list-style: none;}
