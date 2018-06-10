@@ -1,7 +1,7 @@
 .journals ul .body .description a {display: inline;}
-.pkp_structure_footer .pkp_footer_content {background: #b8b380; padding: 15px !important;}
+.pkp_structure_footer .pkp_footer_content {background: #1779b7; padding: 15px !important;}
 .pkp_structure_footer .pkp_footer_content p {margin: 0}
-.pkp_structure_footer .pkp_brand_footer {background: #8a8550; height: auto !important; padding: 15px;}
+.pkp_structure_footer .pkp_brand_footer {background: #1779b7; height: auto !important; padding: 15px;}
 .pkp_structure_footer .pkp_brand_footer img {width: 48px !important; height: auto;}
 
 html, body, * {font-family: Calibri, helvetica, arial !important}
@@ -18,13 +18,13 @@ html, body, * {font-family: Calibri, helvetica, arial !important}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu > li > a { font-family: Calibri, helvetica, arial !important; font-weight: normal !important;}
 
 
-.pkp_navigation_primary_row {background: #ec061c !important;}
+.pkp_navigation_primary_row {background: #1779b7 !important;}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li {padding: 0 !important;margin: 0 !important;}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li a {margin: 0 !important; padding: 0 10px !important; line-height: 40px !important; }
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li, .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li a {font-family:Calibri, helvetica, arial !important; color: #FFFFFF !important; font-weight: normal !important}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li a:hover {background: rgba(0,0,0,.3) !important}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li ul, .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li ul li a:hover {border-radius: 0 !important; -webkit-border-radius: 0 !important; -o-border-radius: 0 !important;}
-.pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li ul { background: #ec061c !important}
+.pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li ul { background: #1779b7 !important}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li ul li { border-bottom: solid 1px rgba(255,255,255,.35) !important;}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li ul li:last-child { border-bottom: none !important;}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper .pkp_search .search_controls a.headerSearchPrompt.search_prompt {font-family: Calibri, helvetica, arial !important; color: #FFFFFF !important}
@@ -37,13 +37,14 @@ h1,h2,h3,h4,h5,h6 {font-family: Calibri, helvetica, arial !important;}
 .pkp_block {margin: 0 !important}
 #customblock-Sidebar_menu.pkp_block {margin: 0 !important; padding: 0 !important}
 #customblock-Sidebar_menu.pkp_block ul, #customblock-Sidebar_menu.pkp_block ul li {margin: 0 !important; padding: 0 !important}
-#customblock-Sidebar_menu.pkp_block ul li {background: #ec061c !important; border-bottom: solid 1px rgba(255,255,255,.4)}
+#customblock-Sidebar_menu.pkp_block ul li {background: #1779b7 !important; border-bottom: solid 1px rgba(255,255,255,.4)}
 #customblock-Sidebar_menu.pkp_block ul li:last-child {border-bottom: none}
-#customblock-Sidebar_menu.pkp_block ul li a {background: #ec061c !important; display: block; line-height: 40px; padding: 0 10px 0 20px; color: #FFFFFF;}
+#customblock-Sidebar_menu.pkp_block ul li a {background: #1779b7 !important; display: block; line-height: 40px; padding: 0 10px 0 20px; color: #FFFFFF;}
 .pkp_block.block_make_submission .content {margin: 0 !important; padding: 0 !important; text-align: center !important}
-.pkp_block.block_make_submission .content a { background: #ec061c; line-height: 40px; font-family : Calibri, helvetica, arial !important; color: #FFFFFF}
+.pkp_block.block_make_submission .content a { background: #1779b7; line-height: 40px; font-family : Calibri, helvetica, arial !important; color: #FFFFFF}
 .pkp_block.block_make_submission .content a:hover { background: rgba(0,0,0,0.25) !important;  color: #333333}
 
+.obj_article_summary .item.doi .label {background: url(/public/journals/8/images/icon-doi.png) left center no-repeat;width: 25px !important; height:24px !important; color: transparent; text-indent: 100%;white-space: nowrap;overflow: hidden;}
 .obj_article_summary .item.stats .abstract, .obj_article_summary .item.stats .galley {position:relative;}   
 .obj_article_summary .item.stats .abstract {margin-left: 20px; margin-right: 10px;}   
 .obj_article_summary .item.stats .galley {margin-left: 25px;}   
@@ -52,9 +53,6 @@ h1,h2,h3,h4,h5,h6 {font-family: Calibri, helvetica, arial !important;}
 
 .pkp_structure_footer_wrapper{border-bottom: none !important;}
 .pkp_block {padding: 15px 10px;}
-
-.pkp_footer_content {background: #fbf5f6 !important}
-.pkp_brand_footer {background: #d41212 !important}
 
 #customblock-Tools .content>.content div{width: 80% !important; margin: auto;}
 #customblock-Tools .content>.content div a img{width: 100% !important;}
