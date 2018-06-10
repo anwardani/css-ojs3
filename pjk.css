@@ -3,6 +3,7 @@
 .pkp_structure_footer .pkp_footer_content p {margin: 0}
 .pkp_structure_footer .pkp_brand_footer {background: #1779b7; height: auto !important; padding: 15px;}
 .pkp_structure_footer .pkp_brand_footer img {width: 48px !important; height: auto;}
+.pkp_structure_footer .pkp_footer_content a {color: #000000}
 
 html, body, * {font-family: Calibri, helvetica, arial !important}
 
@@ -12,7 +13,7 @@ html, body, * {font-family: Calibri, helvetica, arial !important}
 .pkp_site_name_wrapper {padding-left: 0; padding-right: 0;}
 .pkp_navigation_user_wrapper {top: 0; right: 0; padding-right:30px;}
 .pkp_navigation_user_wrapper .pkp_navigation_user {font-family: Calibri, helvetica, arial !important; font-weight: normal;}
-.pkp_navigation_user_wrapper .pkp_navigation_user > li.profile { font-family: Calibri, helvetica, arial !important; background: #ec3237; }
+.pkp_navigation_user_wrapper .pkp_navigation_user > li.profile { font-family: Calibri, helvetica, arial !important; background: #1779b7; }
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > a { font-family: Calibri, helvetica, arial !important; font-weight: normal !important; padding-right: 10px; box-shadow: 0 0 10px rgba(0,0,0,.5)}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu { border-radius: 0 !important;}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu > li > a { font-family: Calibri, helvetica, arial !important; font-weight: normal !important;}
