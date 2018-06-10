@@ -1,0 +1,488 @@
+.pkp_site_name .is_text{
+   color:black!important;
+}
+.pkp_structure_head {
+    background-image: url(http://oi68.tinypic.com/2sb48sj.jpg) top center no-repeat;
+ }
+.pkp_structure_page {
+    margin-top: 0px;
+    margin-bottom: 0px;
+	
+}
+ .pkp_structure_main h1 {
+     font-weight: 600;
+	 font-size: 20px;
+}
+a {
+    color: #333300;
+}
+.pkp_page_index .current_issue h2 {
+    display: inline-block;
+    padding-bottom: 0em;
+    border-bottom: 3px solid #ff8000;
+    text-transform: capitalize;
+    font-weight: 700;
+    color: rgba(0,0,0,0.54);
+}
+.pkp_page_index .current_issue .current_issue_title {
+	font-size:14px;
+}
+.obj_issue_toc .heading .published .label {
+	text-transform:capitalize;
+	font-size: 90%;
+}
+.pkp_page_index .current_issue .read_more {
+	margin-bottom: 20px;
+    margin-top: 20px;
+}
+.obj_issue_toc .section h2 {
+    position: relative;
+    display: inline-block;
+    top: auto;
+    left: auto;
+    padding: 0 0 5px;
+    border-bottom: 3px solid #ff8000;
+    background: transparent;
+    text-transform: capitalize;
+    font-weight: 700;
+    padding-bottom: 0em;
+}
+.pkp_navigation_primary_row{
+	background-color: grey;
+	text-align:left;
+    padding-left:15px;
+}
+#navigationPrimary a {
+	font-size: 13.5px;
+    color: #f2f2f2;
+    font-weight: 100;
+    text-transform: capitalize;
+}
+#navigationPrimary ul {
+  background: #595959;
+}
+#navigationPrimary [aria-expanded="true"]:before {
+    border-bottom-color: #595959;
+}
+/* Menu Tambahan Kanan by ade@htp.ac.id */
+
+.hoverTable{
+	width:100%;
+	border-collapse:collapse; 
+}
+.hoverTable th{
+	height:30px; background: #ffffff; color:#105183;
+}
+.hoverTable td{ 
+	height:30px; padding-top:3px;vertical-align:middle; 
+	border-bottom:1px solid #ffffff;
+	text-align:center;
+}
+.hoverTable td a{
+	width:100%;display:block;
+}
+/* warna latar setiap baris tabel dan warna tulisan */
+.hoverTable tr{
+	background: #105183; color:#ffffff;
+}
+/* warna ketika dilewati mouse */
+.hoverTable tr:hover {
+	background-color: #0c426b;
+}
+.hoverTable a {
+	color:#ffffff;
+}
+.hoverTable a:hover {
+	color:#f0850c;
+}
+/* --- Menu Tambahan Kanan by ade@htp.ac.id */
+.pkp_head_wrapper .pkp_search .search_controls .search_prompt{
+	font-size: 13.5px;
+    color: #f2f2f2;
+    font-weight: 100;
+    text-transform: capitalize;
+}	
+.pkp_navigation_user_wrapper a {
+	font-size: 15px;
+	font-weight: 200;
+}	
+body {
+  font-family: tahoma,geneva,sans-serif;
+  background: #e6e6e6;
+  font-size:14px;  
+}
+
+body p {
+    font-family: tahoma,geneva,sans-serif;
+    font-size: 14px;
+}
+.pkp_block {
+    font-size: 14px;
+    line-height: 20px;
+    clear: both;
+    border-bottom: 1.5px solid #ddd;
+}
+.pkp_structure_sidebar{
+	background:#ffffff;
+}
+.pkp_block .title {
+    display: inline-block;
+    padding-bottom: 0em;
+    border-bottom: 3px solid #ff8000;
+    font-weight: 600;
+    text-transform: capitalize;
+}
+.obj_article_details .main_entry .label {
+    display: inline-block;
+    padding: 0 0 5px;
+    border-bottom: 3px solid #ff8000;
+    color: rgba(0,0,0,0.54);
+    text-transform: capitalize;
+}
+.pkp_structure_content {
+    padding-top: 0;
+	background:#ffffff;
+}
+.obj_article_details .abstract {
+    text-align: justify;
+	font:tahoma,geneva,sans-serif;
+}
+.obj_article_summary > .title {
+    font-size: 14.5px;
+    line-height: 20px;
+    font-weight: 100;
+}
+.obj_article_summary {
+    padding-bottom: 10px !important;
+    border-bottom: solid 1px #ff8000 !important;
+	font-size: 12px;
+}
+.pkp_site_name .is_img img {
+	display: inline-block;
+	max-height: 100px;
+	max-width: 100%;
+	width: auto;
+	height: auto;
+}
+.pkp_footer_content {
+  float: none;
+  width: 100%;
+  clear: both;
+  padding-top: 10px;  
+}
+.pkp_brand_footer {
+  background: #e6e6e6;
+}
+.pkp_structure_footer_wrapper {
+	background:  #595959;
+	border-bottom: 0px solid;
+}
+.obj_galley_link {
+	font-weight: 700;
+    text-transform: Capitalize;
+    background: grey;
+    color: #fff;
+    border: none;
+}
+.cmp_breadcrumbs {
+    text-transform: capitalize;
+}
+.ui-state-active, .ui-widget-content .ui-state-active, .ui-widget-header .ui-state-active, a.ui-button:active {
+    background: #8c8c8c;
+    border: 0px solid #3c2d61;
+}
+
+/*------------------------ style journal ------------------------------------*/
+
+/*@import 'https://fonts.googleapis.com/css?family=Cinzel|Merriweather|Open+Sans:400,700';*/
+@import 'https://fonts.googleapis.com/css?family=EB+Garamond';
+
+/* Pengaturan utama teks seluruh halaman */
+body {
+	/*font-family: 'EB Garamond', serif !important;*/
+	/*font-size: .9rem !important;*/
+}
+
+#body{
+	padding: .3rem;				/*boder untuk body layout*/
+	box-shadow: 0px 2px 5px -2px rgba(51,51,51,1);
+}
+
+h1,h2,h3,h4,h5,h6 {
+	/*font-family: 'EB Garamond', serif !important;*/
+	margin-top: 1.6rem !important;
+}
+
+p{
+	text-align: justify;
+  	text-justify: inter-word;
+}
+
+/* Pengaturan Tulisan Description */
+#journalDescription > p:first-child:first-letter, #pkp-about-history > p:first-child:first-letter {
+	float: left;
+	color: #333;
+	font-size: 75px;
+	line-height: 60px;
+	padding: 5px 10px 0 0;
+}
+
+/* Pengaturan Gambar disebelah tulisan deskripsi */
+#homepageImage {
+	float: right;
+	width: 30%;
+	margin-top: -1em;
+	margin-left: 12px;
+	margin-bottom: 12px;
+	text-align: right;
+}
+
+#homepageImage img {
+	/*transform: translateY(-50px);		/*meninggikan penempatan gambar homepage image sejajar dengan nama jurnal*/
+	display: inline-block;
+	/*max-width: 210px;*/
+	height: auto;
+}
+
+/* Pengaturan Header*/
+#header{
+	margin:0;
+	padding:0;
+	background-color:#FFF;
+	/*background-image:url(../../../../files/journals/67/theme/nasty_fabric.png);	/*mengganti background gambar*/
+	min-height:50px;
+}
+
+#headerTitle{
+	width:1080px;
+	margin:0 auto;
+	display:inline-block;
+}
+
+#headerTitle img {
+	float: left;
+	display: inline-block;
+	margin-top: auto;
+	margin-bottom: 40px;
+	max-width: 1080px;
+	height: auto;
+}
+
+#header h1{
+	margin-top:0 !important;
+	text-transform: uppercase;
+	/*font-size: 4em;*/
+	/*font-family: 'EB Garamond', serif !important;*/
+	text-align: center;
+}
+
+#container{
+	margin: 0 auto;
+	padding: 0;
+	min-width: 730px !important;
+	width: 100% !important;
+	/*background:url(../../../../files/journals/67/theme/nasty_fabric.png);		/*mengganti background gambar*/
+	background-color: white;
+	display: inline-block;
+}
+
+/* Pengaturan Menu Utama*/
+#navbar{
+	/*untuk warna menu bar*/
+	background-color: #182c66;
+	margin-bottom: 30px;
+}
+
+#navbar a, #navbar a:link, #navbar a:visited {
+	/*font-family: 'Merriweather', serif !important;*/
+	/*font-family: 'EB Garamond', serif !important;*/
+	text-transform: none;
+	/*font-size: 1.2em !important;*/
+}
+
+#navbar a:hover {
+	background-color: #2A3F7D;		/*untuk warna menu bar*/
+}
+
+#link a:active,a:link,a:visited{
+	color:#182c66;				/*untuk warna tulisan yang berisi link*/
+	text-decoration:none
+}
+
+/* Pengaturan Side Menu yang menggunakan <ul class="sidemenu full"> */
+ul.sidemenu{
+	margin-top: -12px;
+	padding-left: 0px !important;
+}
+
+ul.sidemenu.full{
+	margin: -12px -12px 0 -12px;
+}
+
+ul.sidemenu li:before{
+	display: none;
+}
+
+ul.sidemenu li{
+	padding: 0;
+}
+
+ul.sidemenu li:first-child a{
+	border-top:1px solid #08194C;		/*untuk warna pembatas menu paling atas dengan menu nav*/
+}
+
+ul.sidemenu li a{
+	display: block;
+	padding: 0.7em 12px 0.7em 12px;
+	border-bottom: 1px solid #08194C;	/*untuk warna garis sidemenu*/
+	background-color: #182c66;		/*untuk warna background sidemenu*/
+	text-decoration: none;
+	color: #FFF;				/*untuk warna tulisan sidemenu*/
+}
+
+ul.sidemenu li a:hover {
+	background-color: #2A3F7D;		/*untuk warna sidemenu ketika pointer mouse mengarah ke menu*/
+	text-decoration: underline;
+}
+
+.block li:before {
+  content: "";
+  border-color: transparent #306998;		/*untuk warna format bulleting*/
+  border-style: solid;
+  border-width: 0.35em 0 0.35em 0.45em;
+  display: block;
+  height: 0;
+  width: 0;
+  left: -1em;
+  top: 0.9em;
+  position: relative;
+}
+
+/* Pengaturan Title Block bawaan */
+#leftSidebar div.block span.blockTitle, #rightSidebar div.block span.blockTitle {	
+	/*font-family: 'EB Garamond', serif !important;*/
+	background-color: #182c66 !important;		/*untuk warna menu block*/
+	color: #FFF !important;
+	box-shadow: 0px 2px 5px -2px rgba(51,51,51,1);
+}
+
+/* Gambar Cover Table of Content*/
+#issueCoverImage img {
+	display: block;
+	border: 0;
+	max-width: 500px;
+	height: auto;
+}
+
+/*Buat kotak Quote yang menggunakan class="intro"*/
+.intro {
+  background-color: #f1faf5;
+  border: 1px dotted SeaGreen;
+  padding-bottom: 6px;
+  padding: 15px;
+  display: inline-block;
+}
+.intro ul {
+  margin: 0;
+  padding-left: 1em;
+}
+.color-box {
+  display: block;
+  width: 60px;
+  height: 40px;
+  float: left;
+  margin-right: 5px;
+}
+.color1 {
+  background-color: Gold;
+}
+.color1-light {
+  background-color: #fffbe5;
+}
+.color2 {
+  background-color: SeaGreen;
+}
+.color2-light {
+  background-color: #f1faf5;
+}
+.color-grey-light {
+  background-color: #f4f4f4;
+}
+
+/*Icon table of content*/
+table.tocArticle:nth-child(odd) tr {
+  	background-color: #fffbe5;
+}
+
+table.tocArticle:nth-child(even) tr {
+  	background-color: #f4f4f4;
+}
+
+table.tocArticle tr:hover {
+  	background-color: #f1faf5;
+}
+
+table.tocArticle td {
+  	padding: 5px 10px;
+}
+
+table.tocArticle a {
+  	text-decoration: none;
+}
+
+.tocTitle {
+  	font-weight: bold;
+}
+
+.tocAuthors {
+  	font-style: italic;
+}
+
+td.tocGalleys {
+  	padding-right: 10px;
+}
+
+td.tocArticleTitleAuthors {
+  	width: 89%;
+}
+
+td.tocArticleGalleysPages {
+  	width: 11%;
+}
+
+#articleTitle {
+  	margin-bottom: 0.8em;
+}
+
+.tocDOI,
+.articleDOI {
+  	background: url( http://www.mevjournal.com/plugins/themes/spica/imgs/icon-doi.png) 1px 2px no-repeat rgba(0, 0, 0, 0);
+  	margin-top: 4px;
+  	padding-left: 30px;
+}
+
+.tocAuthors {
+  	background: url( http://www.mevjournal.com/plugins/themes/spica/imgs/icon-group.png) 1px 2px no-repeat rgba(0, 0, 0, 0);
+  	font-style: italic;
+ 	margin-top: 4px;
+  	padding-bottom: 5px;
+  	padding-left: 30px;
+}
+
+.tocTitle a {
+  	font-weight: 700;
+}
+
+.tocGaleyPdf {
+  	background: url( http://www.mevjournal.com/plugins/themes/spica/imgs/icon-pdf.png) no-repeat top right;
+  	height: 20px;
+  	width: 24px;
+  	display: inline-block;
+  	float: right;
+}
+
+.tocGaleyFile {
+  	background: url( http://www.mevjournal.com/plugins/themes/spica/imgs/icon-file.png) no-repeat top right;
+  	height: 20px;
+}
+
