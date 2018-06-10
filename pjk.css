@@ -37,7 +37,7 @@ html, body, * {font-family: Calibri, helvetica, arial !important}
 h1,h2,h3,h4,h5,h6 {font-family: Calibri, helvetica, arial !important;}
 .pkp_block {margin: 0 !important}
 #customblock-Sidebar_menu.pkp_block {margin: 0 !important; padding: 0 !important}
-#customblock-Sidebar_menu.pkp_block ul, #customblock-Sidebar_menu.pkp_block ul li {margin: 0 !important; padding: 0 !important}
+#customblock-Sidebar_menu.pkp_block ul, #customblock-Sidebar_menu.pkp_block ul li {margin: 0 !important; padding: 0 !important; list-style: none;}
 #customblock-Sidebar_menu.pkp_block ul li {background: #1779b7 !important; border-bottom: solid 1px rgba(255,255,255,.4)}
 #customblock-Sidebar_menu.pkp_block ul li:last-child {border-bottom: none}
 #customblock-Sidebar_menu.pkp_block ul li a {background: #1779b7 !important; display: block; line-height: 40px; padding: 0 10px 0 20px; color: #FFFFFF;}
@@ -45,7 +45,6 @@ h1,h2,h3,h4,h5,h6 {font-family: Calibri, helvetica, arial !important;}
 .pkp_block.block_make_submission .content a { background: #1779b7; line-height: 40px; font-family : Calibri, helvetica, arial !important; color: #FFFFFF}
 .pkp_block.block_make_submission .content a:hover { background: rgba(0,0,0,0.25) !important;  color: #333333}
 
-.obj_article_summary .item.doi .label {background: url(/public/journals/8/images/icon-doi.png) left center no-repeat;width: 25px !important; height:24px !important; color: transparent; text-indent: 100%;white-space: nowrap;overflow: hidden;}
 .obj_article_summary .item.stats .abstract, .obj_article_summary .item.stats .galley {position:relative;}   
 .obj_article_summary .item.stats .abstract {margin-left: 20px; margin-right: 10px;}   
 .obj_article_summary .item.stats .galley {margin-left: 25px;}   
