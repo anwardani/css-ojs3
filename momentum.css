@@ -1,0 +1,10 @@
+#headerNavigationContainer{
+padding-top:125px;background:#dd4814 url(/public/header.jpg) top center no-repeat;
+}
+#nav-menu{float:left}
+.container-fluid{margin:0px}
+#navigationUser{padding-top:5px}
+#headerNavigationContainer .container-fluid{float:left;margin-top:0px}
+.site-name{display:none !important}
+.navbar-default{border-color:#fff}
+.navbar{border-radius:0px none !important;}
