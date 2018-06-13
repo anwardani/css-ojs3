@@ -1,5 +1,6 @@
 #headerNavigationContainer{
-padding-top:125px;background:#dd4814 url(/public/header.jpg) top center no-repeat;
+padding-top:125px;
+background:#dd4814 url(https://anwardani.github.io/css-ojs3/imgs/header-momentum.jpg) top center no-repeat;
 }
 #nav-menu{float:left}
 .container-fluid{margin:0px}
