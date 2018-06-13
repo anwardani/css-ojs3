@@ -1,6 +1,6 @@
 #headerNavigationContainer{
 padding-top:125px;
-background:#dd4814 url(https://anwardani.github.io/css-ojs3/imgs/header-momentum.jpg) top center no-repeat;
+background:#0f4ee9 url(https://anwardani.github.io/css-ojs3/imgs/header-momentum.jpg) top center no-repeat;
 }
 #nav-menu{float:left}
 .container-fluid{margin:0px}
@@ -9,3 +9,6 @@ background:#dd4814 url(https://anwardani.github.io/css-ojs3/imgs/header-momentum
 .site-name{display:none !important}
 .navbar-default{border-color:#fff}
 .navbar{border-radius:0px none !important;}
+a { color: #0f4ee9; }
+.btn-primary {  color: #fff; background-color: #0f4ee9; border-color: #0f4ee9; }
+.panel-body, .pkp_block .content { padding: 0; }
