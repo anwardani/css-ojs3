@@ -1,0 +1,18 @@
+.pkp_block li {
+    background-color: #390073;
+    border-top: 1px solid rgba(255, 255, 255, 0.1);
+}
+.pkp_block.block_custom #head_custom2 {
+    background-color: rgb(43, 17, 69);
+    color: #fff;
+    border-radius: 5px 5px 0px 0px;
+}
+.pkp_block li a {
+    color: white;
+}
+.block_make_submission .content {
+    padding: 10px;
+    text-align: center;
+    background: #2b1145;
+    border-radius: 5px;
+}
