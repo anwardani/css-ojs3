@@ -18,9 +18,6 @@
     background: #2b1145;
     border-radius: 5px;
 }
-body.pkp_page_index {
-    background: url("https://anwardani.github.io/css-ojs3/noisy_grid.png");
-}
 .site-content {
     margin-top: 0;
     margin-bottom: 0px;
@@ -34,4 +31,14 @@ body.pkp_page_index {
 .container-fluid {
     padding-right: 0;
     padding-left: 10px;
+}
+@media (min-width: 1200px) {
+	body, body.pkp_page_index {
+		width: 80%;
+		border: 1px solid black;
+		background: url("https://anwardani.github.io/css-ojs3/noisy_grid.png");
+	}
+	body.pkp_page_article {
+		width: 100%;
+	}
 }
