@@ -6,6 +6,8 @@
     background-color: rgb(43, 17, 69);
     color: #fff;
     border-radius: 5px 5px 0px 0px;
+    padding: 15px;
+    text-align: center;
 }
 .pkp_block li a {
     color: white;
