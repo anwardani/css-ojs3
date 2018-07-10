@@ -21,3 +21,10 @@
 body.pkp_page_index {
     background: url("");
 }
+.site-content {
+    margin-top: 0;
+    margin-bottom: 0px;
+    background: #fff;
+    padding-top: 20px;
+    padding-left: 40px;
+}
