@@ -19,7 +19,7 @@
     border-radius: 5px;
 }
 body.pkp_page_index {
-    background: url("");
+    background: url("https://anwardani.github.io/css-ojs3/noisy_grid.png");
 }
 .site-content {
     margin-top: 0;
@@ -27,4 +27,11 @@ body.pkp_page_index {
     background: #fff;
     padding-top: 20px;
     padding-left: 40px;
+}
+.site-footer {
+    padding: 20px 0px 10px 0px;
+}
+.container-fluid {
+    padding-right: 0;
+    padding-left: 10px;
 }
