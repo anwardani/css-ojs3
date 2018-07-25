@@ -15,7 +15,8 @@ body {background-image: url(https://anwardani.github.io/css-ojs3/noisy_grid.png)
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > a { font-family: Sunflower, helvetica, calibri ; font-weight: normal !important; padding-right: 10px; color:#fff}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu { border-radius: 0 !important;}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu > li > a { font-family: Sunflower, helvetica, calibri ; font-weight: normal !important;}
-.pkp_navigation_user > li > a, .pkp_navigation_user > li.in_focus > a, .pkp_navigation_user > li > a:hover, .pkp_navigation_user > li > a:focus { color: #fff; }
+.pkp_navigation_user > li > a, .pkp_navigation_user > li.in_focus > a, .pkp_navigation_user > li > a:hover, .pkp_navigation_user > li > a:focus { color: #fff; background: #251f9a; color:#fff; margin: 5px; border-radius: 5px;}
+.pkp_navigation_user > li:last-child a { padding-right: 5px; }
 
 .pkp_navigation_primary_row {background: #251f9a !important;}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li {padding: 0 !important;margin: 0 !important;}
