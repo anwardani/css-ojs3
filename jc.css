@@ -3916,8 +3916,7 @@ img {
 }
 
 .pkp_brand_footer {
-    padding: 10px;
-    text-align: center
+display:none;
 }
 
 .pkp_brand_footer a {
