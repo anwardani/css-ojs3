@@ -41,7 +41,7 @@ h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
 
 .pkp_block {margin: 0 !important}
 .pkp_block .title { display: inline-block; padding-bottom: 0.5em; border-bottom: 3px solid #f7bc4a; font-weight: 700; text-transform: uppercase;  width: 100%;background-color: #251f9a; padding: 10px; color: #FFF; border-radius: 5px 5px 0px 0px; margin: 0px;}
-.pkp_block .content { border: 1px solid; border-radius: 0px 0px 5px 5px; padding:10px; }
+/*.pkp_block .content { border: 1px solid; border-radius: 0px 0px 5px 5px; padding:10px; } */
 
 #customblock-Sidebar_menu.pkp_block {margin: 0 !important; padding: 0 !important}
 #customblock-Sidebar_menu.pkp_block ul, #customblock-Sidebar_menu.pkp_block ul li {margin: 0 !important; padding: 0 !important; list-style: none;}
@@ -49,7 +49,7 @@ h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
 #customblock-Sidebar_menu.pkp_block ul li:last-child {border-bottom: none}
 #customblock-Sidebar_menu.pkp_block ul li a {background: #251f9a !important; display: block; line-height: 40px; padding: 0 10px 0 10px; color: #FFFFFF;}
 #customblock-Sidebar_menu.pkp_block ul li a:hover {background: #3f39b7 !important }
-#customblock-Sidebar_menu .content { border: 0px; border-radius: 0px; padding:0px; }
+/* #customblock-Sidebar_menu .content { border: 0px; border-radius: 0px; padding:0px; } */
 .pkp_block.block_make_submission .content {margin: 0 !important; padding: 0 !important; text-align: center !important; border:0px}
 .pkp_block.block_make_submission .content a { background: #251f9a; line-height: 40px; font-family : Sunflower, helvetica, calibri; color: #FFFFFF}
 .pkp_block.block_make_submission .content a:hover { background: rgba(0,0,0,0.25) !important;  color: #333333}
