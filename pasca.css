@@ -49,6 +49,8 @@ h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
 .pkp_block.block_make_submission .content {margin: 0 !important; padding: 0 !important; text-align: center !important}
 .pkp_block.block_make_submission .content a { background: #251f9a; line-height: 40px; font-family : Sunflower, helvetica, calibri; color: #FFFFFF}
 .pkp_block.block_make_submission .content a:hover { background: rgba(0,0,0,0.25) !important;  color: #333333}
+.pkp_block .title { display: inline-block; padding-bottom: 0.5em; border-bottom: 3px solid #f7bc4a; font-weight: 700; text-transform: uppercase;  width: 100%;background-color: #3f39b7; padding: 4px; color: #FFF; }
+
 
 .obj_article_summary .item.doi .label {background: url(/public/journals/8/images/icon-doi.png) left center no-repeat;width: 25px !important; height:24px !important; color: transparent; text-indent: 100%;white-space: nowrap;overflow: hidden;}
 .obj_article_summary .item.stats .abstract, .obj_article_summary .item.stats .galley {position:relative;}   
