@@ -1,4 +1,12 @@
-body {
-	
+@font-face {
+  font-family: 'eras';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Eras Medium ITC'), local('ErasMediumITC'), url(https://anwardani.github.io/css-ojs3/img/erasmd.ttf) format('ttf');
+}
+
+.navbar-logo-text {
+    font-family: 'eras', serif;
+    font-size: 14px;
 }
 .footer-brand-image { max-width: 75px; }
