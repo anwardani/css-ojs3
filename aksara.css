@@ -5,6 +5,7 @@ body {   background-color: #d0f0fb; }
     font-size: 40px;
     font-family: 'Titillium Web', sans-serif;
 }
+.navbar-logo-text { display: inline;}
 .footer-brand-image { max-width: 75px; }
 .site-footer {
     background: #60c3cf;
