@@ -2,7 +2,7 @@
   font-family: 'eras';
   font-style: normal;
   font-weight: 400;
-  src: local('Eras Medium ITC'), local('ErasMediumITC'), url(https://anwardani.github.io/css-ojs3/img/erasmd.ttf) format('ttf');
+  src: local('Eras Medium ITC'), local('ErasMediumITC'), url(https://anwardani.github.io/css-ojs3/imgs/erasmd.ttf) format('ttf');
 }
 
 .navbar-logo-text {
