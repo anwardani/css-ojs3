@@ -1,12 +1,4 @@
-@font-face {
-  font-family: 'Eras ITC';
-  font-style: normal;
-  font-weight: 400;
-  src: local('Eras Medium ITC'), local('ErasMediumITC'), url(https://anwardani.github.io/css-ojs3/imgs/erasmd.ttf) format('ttf');
-}
-
 .navbar-logo-text {
-    font-family: "Eras ITC", "Eras Light ITC",  sans-serif;
     font-size: 20px;
 }
 .footer-brand-image { max-width: 75px; }
