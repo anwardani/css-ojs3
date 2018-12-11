@@ -5,3 +5,7 @@
     font-family: 'Titillium Web', sans-serif;
 }
 .footer-brand-image { max-width: 75px; }
+.site-footer {
+    background: #60c3cf;
+    color: #000;
+}
