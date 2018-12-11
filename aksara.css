@@ -1,5 +1,6 @@
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web');
-
+body {   background-color: #d0f0fb; }
+.main-header {   background-color: #a0e7e2; }
 .navbar-logo-text {
     font-size: 40px;
     font-family: 'Titillium Web', sans-serif;
@@ -9,3 +10,4 @@
     background: #60c3cf;
     color: #000;
 }
+
