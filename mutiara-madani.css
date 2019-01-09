@@ -73,3 +73,5 @@ h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
 .pkp_structure_footer .pkp_brand_footer img {width: 48px !important; height: auto;}
 
 .pkp_block .title {    margin: 5px -8px 5px -6px; color: #fff; background: #3F79DC;  padding: 5px; text-align:center}
+.pkp_block .title2 {    margin: 5px 3px 5px 5px; color: #fff; background: #3F79DC;  padding: 5px; text-align:center}
+.pkp_structure_sidebar {    padding: 2px 0 0 0;}
