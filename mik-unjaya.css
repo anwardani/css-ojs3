@@ -72,5 +72,5 @@ h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
 .pkp_structure_footer .pkp_footer_content p {margin: 0}
 .pkp_structure_footer .pkp_brand_footer {background: #398794; height: auto !important; padding: 0; display: none;}
 .pkp_structure_footer .pkp_brand_footer img {width: 48px !important; height: auto;}
-#footer1{background:linear-gradient(to right, #057642 , #c5dfd2); width:70%; float:left}
-#footer2{background:linear-gradient(to right, #f8eee4 , #e08d2f); width:30%; float:left}
+#footer1{background:linear-gradient(to right, #057642 , #c5dfd2); width:70%; float:left; padding:10px}
+#footer2{background:linear-gradient(to right, #f8eee4 , #e08d2f); width:30%; float:left; padding:10px}
