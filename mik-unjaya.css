@@ -68,7 +68,7 @@ h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
 .cmp_announcements .obj_announcement_summary.full_width {width: 100% !important;}
 .cmp_announcements .obj_announcement_summary .summary p {line-height: 1.3em; margin-top: 0 !important; margin-bottom: 1em !important;}
 
-.pkp_structure_footer .pkp_footer_content {linear-gradient(to right, #057642 , #c5dfd2); padding: 10px !important;}
+.pkp_structure_footer .pkp_footer_content {background:linear-gradient(to right, #057642 , #c5dfd2); padding: 10px !important;}
 .pkp_structure_footer .pkp_footer_content p {margin: 0}
 .pkp_structure_footer .pkp_brand_footer {background: #398794; height: auto !important; padding: 0; display: none;}
 .pkp_structure_footer .pkp_brand_footer img {width: 48px !important; height: auto;}
