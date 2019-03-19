@@ -32,7 +32,7 @@ body {background-image: url(https://anwardani.github.io/css-ojs3/noisy_grid.png)
 
 .pkp_structure_page {margin:auto; width: 1162px; padding-bottom: 0 !important; border-left: 1px solid gray; border-right: 1px solid gray; background: #fff; }
 .pkp_structure_content { padding-top: 0; }
-.pkp_structure_sidebar .pkp_block .title {font-family: Sunflower, helvetica, calibri;}
+.pkp_structure_sidebar .pkp_block .title { font-family: Sunflower, helvetica, calibri; background: #fce45b; border-left: 10px solid; padding: 10px 5px;    border-radius: 0 5px 0 0; }
 h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
 
 @media (max-width: 1000px) {
