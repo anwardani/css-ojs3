@@ -75,8 +75,8 @@ h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
 
 #slideshow { 
     position: relative;
-    width: 1240px;
-    height: 207px;
+    width: 1200px;
+    height: 200px;
 }
 
 #slideshow > div { 
