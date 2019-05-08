@@ -1,1 +1,2 @@
 #navigationPrimary li:first-child { display: none; }
+.pkp_navigation_primary li:nth-child(2) { display: none; }
