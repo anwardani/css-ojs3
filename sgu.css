@@ -1,8 +1,1 @@
-.pkp_brand_footer {
- padding: 0;
- margin: 0;
-}
-
-.pkp_brand_footer img {
- display : none;
-}
+#navigationPrimary li:first-child { display: none; }
