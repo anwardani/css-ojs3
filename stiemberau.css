@@ -1,6 +1,7 @@
 .journals ul .body .description a {display: inline;}
 
-@import url('https://fonts.googleapis.com/css?family=Sunflower:300');
+@import url('https://fonts.googleapis.com/css?family=Sunflower:300')
+@import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css')
 html, body, * {font-family: Sunflower, helvetica, calibri; }
 body {background-image: url(https://anwardani.github.io/css-ojs3/new-grid.png);}
 
