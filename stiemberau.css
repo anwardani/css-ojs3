@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css?family=Sunflower:300');
 @import url('https://stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
 html, body, * {font-family: Sunflower, helvetica, calibri; }
-body { background-image: url(https://anwardani.github.io/css-ojs3/new-grid.png);
+background: linear-gradient(rgba(67,67,67,0.4),rgba(50,50,49,0.6)), url(https://anwardani.github.io/css-ojs3/new-grid.png) center top !important;}
 
 .pkp_site_name {margin: 0;}
 .pkp_site_name > a {padding-top: 0; padding-bottom: 0;}
