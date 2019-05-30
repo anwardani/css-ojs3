@@ -41,7 +41,7 @@ h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
 }
 
 .pkp_block {margin: 0 !important}
-#customblock-Sidebar_menu.pkp_block {margin: 0 !important; padding: 0 !important}
+#customblock-Sidebar_menu.pkp_block {margin: 10px !important; padding: 0 !important}
 #customblock-Sidebar_menu.pkp_block ul, #customblock-Sidebar_menu.pkp_block ul li {margin: 0 !important; padding: 0 !important; list-style: none;}
 #customblock-Sidebar_menu.pkp_block ul li {background: #03c119 !important; border-bottom: solid 1px rgba(255,255,255,.4)}
 #customblock-Sidebar_menu.pkp_block ul li:last-child {border-bottom: none}
@@ -73,4 +73,4 @@ h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
 .pkp_structure_footer .pkp_brand_footer {background: #03c119; height: auto !important; padding: 10px;}
 .pkp_structure_footer .pkp_brand_footer img {width: 48px !important; height: auto; display:none;}
 #customblock-custom_css{ display: none;}
-.headside{ padding: 10px }
+p.headside { margin: 10px 0 1px 0; }
