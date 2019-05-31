@@ -43,6 +43,7 @@ h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
 #customblock-Sidebar_menu.pkp_block {margin: 10px !important; padding: 0 !important}
 #customblock-Sidebar_menu.pkp_block ul, #customblock-Sidebar_menu.pkp_block ul li {margin: 0 !important; padding: 0 !important; list-style: none;}
 #customblock-Sidebar_menu.pkp_block ul li {background: #e1ae39 !important; border-bottom: solid 1px rgba(255,255,255,.4)}
+#customblock-Sidebar_menu.pkp_block ul li:hover {background: #fbee24 !important;}
 #customblock-Sidebar_menu.pkp_block ul li:last-child {border-bottom: none}
 #customblock-Sidebar_menu.pkp_block ul li a {background: #e1ae39 !important; display: block; line-height: 40px; padding: 0 10px 0 20px; color: #FFFFFF;}
 .pkp_block.block_make_submission .content {margin: 0 !important; padding: 0 !important; text-align: center !important}
