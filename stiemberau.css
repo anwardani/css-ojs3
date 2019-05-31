@@ -74,3 +74,17 @@ h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
 #customblock-custom_css{ display: none;}
 p.headside { margin: 10px 0 1px 0; }
 .pkp_structure_head { background-color: #fbee24; }
+.obj_article_summary {
+    border: 1px solid #a07410;
+    padding: 10px;
+    margin: 0px;
+    box-shadow: #d89b10 5px 5px;
+}
+a {
+    color: #86600b;
+}
+.obj_article_summary .meta {
+    background: url(http://journal.uinsgd.ac.id/public/site/images/bbusro/icon-group.png) 1px 2px no-repeat rgba(0,0,0,0);
+    padding: 0 0 0 20px;
+    margin: 5px 0 0 0;
+}
