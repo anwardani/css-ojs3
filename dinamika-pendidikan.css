@@ -5,6 +5,10 @@
 html, body, * {font-family: Sunflower, helvetica, calibri; }
 body {background-image: url(https://anwardani.github.io/css-ojs3/noisy_grid.png);}
 a { color: #a36402; }
+a:hover { color: #d0963c; }
+.cmp_button_wire, .obj_galley_link { background: #a36402; border: 1px solid #a36402; color: #fff; }
+.obj_article_summary { border: 1px solid #a36402; padding: 10px; border-radius: 5px; box-shadow: 3px 3px #8e5a08;
+}
 
 .pkp_site_name {margin: 0;}
 .pkp_site_name > a {padding-top: 0; padding-bottom: 0;}
