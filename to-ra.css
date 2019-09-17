@@ -3,8 +3,8 @@
 @import url('https://fonts.googleapis.com/css?family=Sunflower:300');
 html, body, * {font-family: Sunflower, helvetica, calibri; }
 body {background-image: url(https://anwardani.github.io/css-ojs3/noisy_grid.png);}
-a { color: #a36402; }
-a:hover { color: #d0963c; }
+a { color: #79000f; }
+a:hover { color: #b00c27; }
 .cmp_button_wire, .obj_galley_link { background: #b00c27; border: 1px solid #b00c27; color: #fff; }
 .obj_article_summary { border: 1px solid #b00c27; padding: 10px; border-radius: 5px; box-shadow: 3px 3px #b00c27;
 }
