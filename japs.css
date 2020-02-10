@@ -42,6 +42,7 @@ h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
 
 @media (max-width: 1000px) {
 .pkp_structure_page {margin:auto; width: 100%; }
+.pkp_structure_content { width: 100%; }   
 }
 
 .pkp_block {margin: 0 !important}
