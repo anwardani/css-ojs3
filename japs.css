@@ -83,6 +83,6 @@ h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
    background: url(http://www.bhmpics.com/wallpapers/blue_shape_abstract-2560x1440.jpg) top center;
 }
 .has_site_logo .pkp_head_wrapper { width: 100%; }
-.pkp_site_name, .pkp_navigation_primary_wrapper, .pkp_navigation_user, .pkp_structure_content, .pkp_structure_footer {
+.pkp_site_name, .pkp_navigation_primary_wrapper, .pkp_navigation_user {
     width: 100%;
 }
