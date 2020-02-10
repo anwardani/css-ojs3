@@ -81,7 +81,8 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Titillium Web', helvetica, calibri;}
 
 .pkp_structure_head {
    border-bottom: 1px solid #ddd;
-   background: url(http://www.bhmpics.com/wallpapers/blue_shape_abstract-2560x1440.jpg) top center;
+background: url(https://static.vecteezy.com/system/resources/previews/000/171/654/non_2x/global-maps-connection-vector-background.jpg);
+background-position: 0% 30%;
 }
 .has_site_logo .pkp_head_wrapper { width: 100%; }
 .pkp_site_name, .pkp_navigation_primary_wrapper, .pkp_navigation_user { width: 100%; }
