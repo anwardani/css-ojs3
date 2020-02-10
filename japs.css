@@ -95,3 +95,20 @@ h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
    padding: 30px;
    text-shadow: 2px 2px #959595;
 }
+.pkp_page_index .current_issue .current_issue_title {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 1.5em;
+}
+.pkp_structure_main h1, .pkp_structure_main h2, .pkp_structure_main h3, .pkp_structure_main h4 {
+    font-family: 'Titillium Web', sans-serif;
+}
+.published::before {
+    content: "\f073";
+    font-family: FontAwesome;
+    top: 0;
+}
+.current_issue_title::before {
+    content: "\f02d";
+    font-family: FontAwesome;
+    top: 0;
+}
