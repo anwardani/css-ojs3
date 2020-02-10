@@ -1,6 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Titillium+Web&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&display=swap');
 .journals ul .body .description a {display: inline;}
-html, body, * {font-family: Sunflower, helvetica, calibri; }
+html, body, * {font-family: helvetica, calibri; }
 body {background-image: url(http://anwardani.github.io/css-ojs3/imgs/backjaps.png);}
 a { color: #033D67; }
 a:hover { color: #0b6ab0; }
@@ -14,11 +15,11 @@ a:hover { color: #0b6ab0; }
 .pkp_site_name .is_img img {max-height: 100%; max-width: 100%; }
 
 .pkp_navigation_user_wrapper {top: 0; right: 0; padding:0;}
-.pkp_navigation_user_wrapper .pkp_navigation_user {font-family: Sunflower, helvetica, calibri ; font-weight: normal;}
-.pkp_navigation_user_wrapper .pkp_navigation_user > li.profile { font-family: Sunflower, helvetica, calibri; background: #033D67; color:#fff }
-.pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > a { font-family: Sunflower, helvetica, calibri ; font-weight: normal !important; padding-right: 10px; color:#fff}
+.pkp_navigation_user_wrapper .pkp_navigation_user {font-family: helvetica, calibri ; font-weight: normal;}
+.pkp_navigation_user_wrapper .pkp_navigation_user > li.profile { font-family: helvetica, calibri; color:#fff }
+.pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > a { font-family: helvetica, calibri ; font-weight: normal !important; padding-right: 10px; color:#fff}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu { border-radius: 0 !important;}
-.pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu > li > a { font-family: Sunflower, helvetica, calibri ; font-weight: normal !important;}
+.pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu > li > a { font-family: helvetica, calibri ; font-weight: normal !important;}
 .pkp_navigation_user { background: #360fa67d;}
 .pkp_navigation_user > li > a, .pkp_navigation_user > li.in_focus > a, .pkp_navigation_user > li > a:hover, .pkp_navigation_user > li > a:focus { color: #fff; }
 
@@ -85,3 +86,12 @@ h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
 .has_site_logo .pkp_head_wrapper { width: 100%; }
 .pkp_site_name, .pkp_navigation_primary_wrapper, .pkp_navigation_user { width: 100%; }
 .pkp_structure_footer_wrapper { background: transparent;}
+.pkp_head_wrapper { padding-top: 30px; }
+.pkp_site_name .is_text {
+    font-family: 'Titillium Web', sans-serif;
+    font-size: 40px;
+    font-weight: 700;
+    color: #fdfdfd;
+   padding: 30px;
+   text-shadow: 2px 2px #959595;
+}
