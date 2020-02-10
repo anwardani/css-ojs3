@@ -20,10 +20,10 @@ a:hover { color: #0b6ab0; }
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > a { font-family: Sunflower, helvetica, calibri ; font-weight: normal !important; padding-right: 10px; color:#fff}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu { border-radius: 0 !important;}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu > li > a { font-family: Sunflower, helvetica, calibri ; font-weight: normal !important;}
-.pkp_navigation_user { background: #0b6ab0; border-bottom: 2px solid #fff;}
+.pkp_navigation_user { background: #360fa67d;}
 .pkp_navigation_user > li > a, .pkp_navigation_user > li.in_focus > a, .pkp_navigation_user > li > a:hover, .pkp_navigation_user > li > a:focus { color: #fff; }
 
-.pkp_navigation_primary_row {background: #033D67 !important;}
+.pkp_navigation_primary_row {background: rgba(19, 0, 73, 0.46);}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li {padding: 0 !important;margin: 0 !important;}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li a {margin: 0 !important; padding: 0 10px !important; line-height: 40px !important; }
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li, .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li a {font-family:Sunflower, helvetica, calibri; color: #FFFFFF !important; font-weight: normal !important}
@@ -35,8 +35,8 @@ a:hover { color: #0b6ab0; }
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper .pkp_search .search_controls a.headerSearchPrompt.search_prompt {font-family: Sunflower, helvetica, calibri; color: #FFFFFF !important}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper .pkp_search.is_open input[type=text] {font-family: Sunflower, helvetica, calibri;}
 
-.pkp_structure_page {margin:auto; width: 1162px; padding-bottom: 0 !important; border-left: 1px solid gray; border-right: 1px solid gray; background: #fff; }
-.pkp_structure_content { padding-top: 0; }
+.pkp_structure_page {margin:auto; width: 100%; padding-bottom: 0 !important; border-left: 1px solid gray; border-right: 1px solid gray; background: #fff; }
+.pkp_structure_content { padding-top: 0; width: 1160px;}
 .pkp_structure_sidebar .pkp_block .title {font-family: Sunflower, helvetica, calibri; background: #02bd18; border-left: 10px solid; padding: 10px 5px; border-radius: 0 5px 0 0;}
 h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
 
@@ -77,3 +77,12 @@ h1,h2,h3,h4,h5,h6 {font-family: Sunflower, helvetica, calibri;}
 .pkp_structure_footer .pkp_brand_footer {background: #033D67; height: auto !important; padding: 10px;}
 .pkp_structure_footer .pkp_brand_footer img {width: 48px !important; height: auto; display:none;}
 #customblock-custom_css{ display: none;}
+
+.pkp_structure_head {
+   border-bottom: 1px solid #ddd;
+   background: url(http://www.bhmpics.com/wallpapers/blue_shape_abstract-2560x1440.jpg) top center;
+}
+.has_site_logo .pkp_head_wrapper { width: 100%; }
+.pkp_site_name, .pkp_navigation_primary_wrapper, .pkp_navigation_user, .pkp_structure_content, .pkp_structure_footer {
+    width: 100%;
+}
