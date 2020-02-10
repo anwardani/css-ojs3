@@ -115,3 +115,16 @@ background-position: 0% 30%;
     top: 0;
     color : #033d67;
 }
+ul.galleys_links li::before {
+    content: "\f080";
+    font-family: FontAwesome;
+    top: 0;
+}
+ul.galleys_links li {
+    font-size: 10pt;
+}
+.authors::before {
+    content: "\f007";
+    font-family: FontAwesome;
+    top: 0;
+}
