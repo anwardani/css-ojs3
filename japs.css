@@ -2,7 +2,7 @@
 
 @import url('https://fonts.googleapis.com/css?family=Sunflower:300');
 html, body, * {font-family: Sunflower, helvetica, calibri; }
-body {background-image: url(http://ejournal.uki.ac.id/styles/noisy_grid.png);}
+body {background-image: url(http://anwardani.github.io/css-ojs3/imgs/backjaps.png);}
 a { color: #033D67; }
 a:hover { color: #0b6ab0; }
 .cmp_button_wire, .obj_galley_link { background: #033D67; border: 1px solid #033D67; color: #fff; }
