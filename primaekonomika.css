@@ -12,7 +12,7 @@ a:hover { color: #0b6ab0; }
 .pkp_site_name {margin: 0;}
 .pkp_site_name > a {padding-top: 0; padding-bottom: 0;}
 .pkp_site_name_wrapper {padding-left: 0; padding-right: 0; margin: 0;}
-.pkp_site_name .is_img img {max-height: 100%; max-width: 100%; }
+.pkp_site_name .is_img img {max-height: 4em; margin: 20px; }
 
 .pkp_navigation_user_wrapper {top: 0; right: 0; padding:0;}
 .pkp_navigation_user_wrapper .pkp_navigation_user {font-family: helvetica, calibri ; font-weight: normal;}
@@ -37,7 +37,7 @@ a:hover { color: #0b6ab0; }
 
 .pkp_structure_page {margin:auto; width: 100%; padding-bottom: 0 !important; border-left: 1px solid gray; border-right: 1px solid gray; background: url(http://anwardani.github.io/css-ojs3/imgs/backjaps.png); }
 .pkp_structure_content { padding-top: 0; width: 1160px;background: #fff;}
-.pkp_structure_sidebar .pkp_block .title {font-family: 'Titillium Web', helvetica, calibri; background: #02bd18; border-left: 10px solid; padding: 10px 5px; border-radius: 0 5px 0 0;}
+.pkp_structure_sidebar .pkp_block .title {font-family: 'Titillium Web', helvetica, calibri; background: #00a1e9; border-left: 10px solid; padding: 10px 5px; border-radius: 0 5px 0 0;}
 h1,h2,h3,h4,h5,h6 {font-family: 'Titillium Web', helvetica, calibri;}
 
 @media (max-width: 1000px) {
@@ -81,8 +81,8 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Titillium Web', helvetica, calibri;}
 
 .pkp_structure_head {
    border-bottom: 1px solid #ddd;
-background: url(https://static.vecteezy.com/system/resources/previews/000/171/654/non_2x/global-maps-connection-vector-background.jpg);
-background-position: 0% 30%;
+background: url(url(https://slidescarnival-d1aa.kxcdn.com/wp-content/uploads/2015/06/Quince.jpg));
+background-position: 0% 40%;
 }
 .has_site_logo .pkp_head_wrapper { width: 100%; }
 .pkp_site_name, .pkp_navigation_primary_wrapper, .pkp_navigation_user { width: 100%; }
