@@ -82,7 +82,7 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Titillium Web', helvetica, calibri;}
 .pkp_structure_head {
    border-bottom: 1px solid #ddd;
 background: url(https://slidescarnival-d1aa.kxcdn.com/wp-content/uploads/2015/06/Quince.jpg);
-background-position: 0% 40%;
+background-position: 0% 40% !important;
 }
 .has_site_logo .pkp_head_wrapper { width: 100%; }
 .pkp_site_name, .pkp_navigation_primary_wrapper, .pkp_navigation_user { width: 100%; }
