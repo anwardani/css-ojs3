@@ -12,7 +12,7 @@ a:hover { color: #0b6ab0; }
 .pkp_site_name {margin: 0;}
 .pkp_site_name > a {padding-top: 0; padding-bottom: 0;}
 .pkp_site_name_wrapper {padding-left: 0; padding-right: 0; margin: 0;}
-.pkp_site_name .is_img img {max-height: 4em; margin: 20px; }
+.pkp_site_name .is_img img {max-height: 5em; padding: 20px; }
 
 .pkp_navigation_user_wrapper {top: 0; right: 0; padding:0;}
 .pkp_navigation_user_wrapper .pkp_navigation_user {font-family: helvetica, calibri ; font-weight: normal;}
