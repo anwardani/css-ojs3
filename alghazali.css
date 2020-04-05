@@ -131,3 +131,7 @@ ul.galleys_links li {
     display: block;
     text-align: right;
 }
+#navigationPrimary li:first-child a::before {
+    content: "\f015";
+    font-family: FontAwesome;
+}
