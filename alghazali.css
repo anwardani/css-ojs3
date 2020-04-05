@@ -126,3 +126,9 @@ ul.galleys_links li {
     font-family: FontAwesome;
     top: 0;
 }
+.pkp_navigation_primary {
+    display: block !important;
+    max-width: 80% !important;
+    text-align: center !important;
+    margin: auto auto;
+}
