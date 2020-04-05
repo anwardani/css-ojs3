@@ -127,3 +127,7 @@ ul.galleys_links li {
     text-align: center !important;
     margin: auto auto;
 }
+.obj_issue_toc .galleys_links li {
+    display: block;
+    text-align: right;
+}
