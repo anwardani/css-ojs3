@@ -83,7 +83,7 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Titillium Web', helvetica, calibri;}
    border-bottom: 1px solid #ddd;
 }
 .has_site_logo .pkp_head_wrapper { width: 100%; }
-.pkp_site_name, .pkp_navigation_primary_wrapper, .pkp_navigation_user { width: 100%; }
+.pkp_site_name, .pkp_navigation_primary_wrapper, .pkp_navigation_user { width: 1162px; }
 .pkp_structure_footer_wrapper { background: transparent;}
 .pkp_head_wrapper { padding-top: 30px; }
 .pkp_site_name .is_text {
