@@ -113,11 +113,6 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Titillium Web', helvetica, calibri;}
     top: 0;
     color : #033d67;
 }
-ul.galleys_links li::before {
-    content: "\f080";
-    font-family: FontAwesome;
-    top: 0;
-}
 ul.galleys_links li {
     font-size: 10pt;
 }
