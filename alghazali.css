@@ -35,7 +35,7 @@ a:hover { color: #0b6ab0; }
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper .pkp_search .search_controls a.headerSearchPrompt.search_prompt {font-family: Sunflower, helvetica, calibri; color: #FFFFFF !important}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper .pkp_search.is_open input[type=text] {font-family: Sunflower, helvetica, calibri;}
 
-.pkp_structure_page {margin:auto; width: 100%; padding-bottom: 0 !important; border-left: 1px solid gray; border-right: 1px solid gray; background: url(http://anwardani.github.io/css-ojs3/imgs/backjaps.png); }
+.pkp_structure_page {margin:auto; width: 1162px; padding-bottom: 0 !important; border-left: 1px solid gray; border-right: 1px solid gray; background: url(http://anwardani.github.io/css-ojs3/imgs/backjaps.png); }
 .pkp_structure_content { padding-top: 0; width: 1160px;background: #fff;}
 .pkp_structure_sidebar .pkp_block .title {font-family: 'Titillium Web', helvetica, calibri; background: #02bd18; border-left: 10px solid; padding: 10px 5px; border-radius: 0 5px 0 0;}
 h1,h2,h3,h4,h5,h6 {font-family: 'Titillium Web', helvetica, calibri;}
