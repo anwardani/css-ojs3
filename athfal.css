@@ -152,3 +152,6 @@ ul.galleys_links li {
     border-bottom: 1px solid #ddd !important;
     text-align: justify;
 }
+.homepage_image {
+    display: none;
+}
