@@ -25,7 +25,7 @@ a:hover { color: #0b6ab0; }
 .pkp_navigation_primary_row {background: #008000;}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li {padding: 0 !important;margin: 0 !important;}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li a {margin: 0 !important; padding: 0 10px !important; line-height: 40px !important; }
-.pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li, .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li a {font-family:Sunflower, helvetica, calibri; color: #FFFFFF !important; font-weight: normal !important}
+.pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li, .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li a {font-family:helvetica, calibri; color: #FFFFFF !important; font-weight: normal !important; font-size: 15px}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li a:hover {background: rgba(0,0,0,.3) !important}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li ul, .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li ul li a:hover {border-radius: 0 !important; -webkit-border-radius: 0 !important; -o-border-radius: 0 !important;}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li ul { background: #008000 !important}
@@ -122,7 +122,7 @@ ul.galleys_links li {
 }
 .pkp_navigation_primary {
     display: block !important;
-    max-width: 80% !important;
+    max-width: 100% !important;
     text-align: center !important;
     margin: auto auto;
 }
