@@ -2,7 +2,6 @@
 @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&display=swap');
 .journals ul .body .description a {display: inline;}
 html, body, * {font-family: helvetica, calibri; }
-body {background-image: url(http://anwardani.github.io/css-ojs3/imgs/backjaps.png);}
 a { color: #033D67; }
 a:hover { color: #0b6ab0; }
 .cmp_button_wire, .obj_galley_link { background: #033D67; border: 1px solid #033D67; color: #fff; }
@@ -20,23 +19,23 @@ a:hover { color: #0b6ab0; }
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > a { font-family: helvetica, calibri ; font-weight: normal !important; padding-right: 10px; color:#fff}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu { border-radius: 0 !important;}
 .pkp_navigation_user_wrapper .pkp_navigation_user > li.profile > ul.dropdown-menu > li > a { font-family: helvetica, calibri ; font-weight: normal !important;}
-.pkp_navigation_user { background: #360fa67d;}
+.pkp_navigation_user { background: transparent;}
 .pkp_navigation_user > li > a, .pkp_navigation_user > li.in_focus > a, .pkp_navigation_user > li > a:hover, .pkp_navigation_user > li > a:focus { color: #fff; }
 
-.pkp_navigation_primary_row {background: rgba(19, 0, 73, 0.46);}
+.pkp_navigation_primary_row {background: #008000;}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li {padding: 0 !important;margin: 0 !important;}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li a {margin: 0 !important; padding: 0 10px !important; line-height: 40px !important; }
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li, .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li a {font-family:Sunflower, helvetica, calibri; color: #FFFFFF !important; font-weight: normal !important}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li a:hover {background: rgba(0,0,0,.3) !important}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li ul, .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li ul li a:hover {border-radius: 0 !important; -webkit-border-radius: 0 !important; -o-border-radius: 0 !important;}
-.pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li ul { background: #033D67 !important}
+.pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li ul { background: #008000 !important}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li ul li { border-bottom: solid 1px rgba(255,255,255,.35) !important;}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper ul li ul li:last-child { border-bottom: none !important;}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper .pkp_search .search_controls a.headerSearchPrompt.search_prompt {font-family: Sunflower, helvetica, calibri; color: #FFFFFF !important}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper .pkp_search.is_open input[type=text] {font-family: Sunflower, helvetica, calibri;}
 
 .pkp_structure_page {margin:auto; width: 1162px; padding-bottom: 0 !important; border-left: 1px solid gray; border-right: 1px solid gray; background: url(http://anwardani.github.io/css-ojs3/imgs/backjaps.png); }
-.pkp_structure_content { padding-top: 0; width: 1160px;background: #fff;}
+.pkp_structure_content { padding-top: 0; width: 1160px;background: #fff;box-shadow: 1px 1px 5px #d4d5d4}
 .pkp_structure_sidebar .pkp_block .title {font-family: 'Titillium Web', helvetica, calibri; background: #02bd18; border-left: 10px solid; padding: 10px 5px; border-radius: 0 5px 0 0;}
 h1,h2,h3,h4,h5,h6 {font-family: 'Titillium Web', helvetica, calibri;}
 
@@ -48,9 +47,9 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Titillium Web', helvetica, calibri;}
 .pkp_block {margin: 0 !important}
 #customblock-Sidebar_menu.pkp_block {margin: 0 !important; padding: 0 !important}
 #customblock-Sidebar_menu.pkp_block ul, #customblock-Sidebar_menu.pkp_block ul li {margin: 0 !important; padding: 0 !important; list-style: none;}
-#customblock-Sidebar_menu.pkp_block ul li {background: #033D67 !important; border-bottom: solid 1px rgb(204, 164, 99)}
+#customblock-Sidebar_menu.pkp_block ul li {background: #eee !important; solid 1px rgb(3, 61, 103)}
 #customblock-Sidebar_menu.pkp_block ul li:last-child {border-bottom: none}
-#customblock-Sidebar_menu.pkp_block ul li a {background: #033D67 !important; display: block; line-height: 40px; padding: 0 10px 0 20px; color: #FFFFFF;}
+#customblock-Sidebar_menu.pkp_block ul li a {background: #eee !important; display: block; line-height: 40px; padding: 0 10px 0 20px; color: #008000;}
 .pkp_block.block_make_submission .content {margin: 0 !important; padding: 0 !important; text-align: center !important}
 .pkp_block.block_make_submission .content a { background: #033D67; line-height: 40px; font-family : Sunflower, helvetica, calibri; color: #FFFFFF}
 .pkp_block.block_make_submission .content a:hover { background: rgba(0,0,0,0.25) !important;  color: #333333}
@@ -73,9 +72,9 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Titillium Web', helvetica, calibri;}
 .cmp_announcements .obj_announcement_summary.full_width {width: 100% !important;}
 .cmp_announcements .obj_announcement_summary .summary p {line-height: 1.3em; margin-top: 0 !important; margin-bottom: 1em !important;}
 
-.pkp_structure_footer .pkp_footer_content {background: #0b6ab0; padding: 10px !important;}
+.pkp_structure_footer .pkp_footer_content {background: #57c387; padding: 10px !important;}
 .pkp_structure_footer .pkp_footer_content p {margin: 0}
-.pkp_structure_footer .pkp_brand_footer {background: #033D67; height: auto !important; padding: 10px;}
+.pkp_structure_footer .pkp_brand_footer {background: #14713d; height: auto !important; padding: 10px;}
 .pkp_structure_footer .pkp_brand_footer img {width: 48px !important; height: auto; display:none;}
 #customblock-custom_css{ display: none;}
 
@@ -130,8 +129,4 @@ ul.galleys_links li {
 .obj_issue_toc .galleys_links li {
     display: block;
     text-align: right;
-}
-#navigationPrimary li:first-child a::before {
-    content: "\f015";
-    font-family: FontAwesome;
 }
