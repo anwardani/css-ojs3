@@ -2,10 +2,10 @@
 @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&display=swap');
 .journals ul .body .description a {display: inline;}
 html, body, * {font-family: helvetica, calibri; }
-a { color: #033D67; }
+a { color: #008000; }
 a:hover { color: #0b6ab0; }
-.cmp_button_wire, .obj_galley_link { background: #033D67; border: 1px solid #033D67; color: #fff; }
-.obj_article_summary { border: 1px solid #033D67; padding: 10px; border-radius: 5px; box-shadow: 3px 3px #033D67;
+.cmp_button_wire, .obj_galley_link { background: #008000; border: 1px solid #1cc61c; color: #fff; }
+.obj_article_summary { border: 1px solid #008000; padding: 10px; border-radius: 5px; box-shadow: 2px 2px 4px #c1c1c1;
 }
 
 .pkp_site_name {margin: 0;}
@@ -133,4 +133,8 @@ ul.galleys_links li {
 #customblock-Sidebar_menu.pkp_block ul li a:hover {
     background: #28c128 !important;
     color: white;
+}
+.pages::before {
+    content: "\f0f6";
+    font-family: FontAwesome;
 }
