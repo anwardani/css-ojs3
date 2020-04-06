@@ -1,1 +1,2 @@
-$('.additional_content').append($('.page_index_journal'));
+var elm = $(".additional_content");
+elm.insertBefore(elm.prev());
