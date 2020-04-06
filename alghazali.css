@@ -138,3 +138,9 @@ ul.galleys_links li {
     content: "\f0f6";
     font-family: FontAwesome;
 }
+.pkp_head_wrapper {
+    padding-top: 0 !important;
+}
+#navigationUser {
+    display: none;
+}
