@@ -130,6 +130,7 @@ ul.galleys_links li {
     display: block;
     text-align: right;
 }
-#customblock-Sidebar_menu.pkp_block ul li:hover {
-    background: green;
+#customblock-Sidebar_menu.pkp_block ul li a:hover {
+    background: #28c128 !important;
+    color: white;
 }
