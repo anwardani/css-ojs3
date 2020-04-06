@@ -36,7 +36,7 @@ a:hover { color: #0b6ab0; }
 
 .pkp_structure_page {margin:auto; width: 1162px; padding-bottom: 0 !important; border-left: 1px solid gray; border-right: 1px solid gray; background: url(http://anwardani.github.io/css-ojs3/imgs/backjaps.png); }
 .pkp_structure_content { padding-top: 0; width: 1160px;background: #fff;box-shadow: 1px 1px 5px #d4d5d4}
-.pkp_structure_sidebar .pkp_block .title {font-family: helvetica, calibri; background: #566eb5; border-left: 10px solid #006; padding: 10px 5px; border-radius: 0 5px 0 0;color: #fff}
+.pkp_structure_sidebar .pkp_block .title {font-family: helvetica, calibri; background: #20B2AA; border-left: 10px solid #006; padding: 10px 5px; border-radius: 0 5px 0 0;color: #fff}
 h1,h2,h3,h4,h5,h6 {font-family: 'Titillium Web', helvetica, calibri;}
 
 @media (max-width: 1000px) {
@@ -72,9 +72,9 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Titillium Web', helvetica, calibri;}
 .cmp_announcements .obj_announcement_summary.full_width {width: 100% !important;}
 .cmp_announcements .obj_announcement_summary .summary p {line-height: 1.3em; margin-top: 0 !important; margin-bottom: 1em !important;}
 
-.pkp_structure_footer .pkp_footer_content {background: #7991d7; padding: 10px !important;}
+.pkp_structure_footer .pkp_footer_content {background: #78DDD8; padding: 10px !important;}
 .pkp_structure_footer .pkp_footer_content p {margin: 0}
-.pkp_structure_footer .pkp_brand_footer {background: #20B2AA; height: auto !important; padding: 10px;}
+.pkp_structure_footer .pkp_brand_footer {background: #14736E; height: auto !important; padding: 10px;}
 .pkp_structure_footer .pkp_brand_footer img {width: 48px !important; height: auto; display:none;}
 #customblock-custom_css{ display: none;}
 
@@ -131,7 +131,7 @@ ul.galleys_links li {
     text-align: right;
 }
 #customblock-Sidebar_menu.pkp_block ul li a:hover {
-    background: #566eb5 !important;
+    background: #14736E !important;
     color: white;
 }
 .pages::before {
