@@ -47,7 +47,7 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Titillium Web', helvetica, calibri;}
 .pkp_block {margin: 0 !important}
 #customblock-Sidebar_menu.pkp_block {margin: 0 !important; padding: 0 !important}
 #customblock-Sidebar_menu.pkp_block ul, #customblock-Sidebar_menu.pkp_block ul li {margin: 0 !important; padding: 0 !important; list-style: none;}
-#customblock-Sidebar_menu.pkp_block ul li {background: #eee !important; solid 1px rgb(3, 61, 103)}
+#customblock-Sidebar_menu.pkp_block ul li {background: #eee !important; border-bottom: solid 1px rgb(3, 61, 103)}
 #customblock-Sidebar_menu.pkp_block ul li:last-child {border-bottom: none}
 #customblock-Sidebar_menu.pkp_block ul li a {background: #eee !important; display: block; line-height: 40px; padding: 0 10px 0 20px; color: #008000;}
 .pkp_block.block_make_submission .content {margin: 0 !important; padding: 0 !important; text-align: center !important}
@@ -129,4 +129,7 @@ ul.galleys_links li {
 .obj_issue_toc .galleys_links li {
     display: block;
     text-align: right;
+}
+#customblock-Sidebar_menu.pkp_block ul li:hover {
+    background: green;
 }
