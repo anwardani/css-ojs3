@@ -144,3 +144,6 @@ ul.galleys_links li {
 #navigationUser {
     display: none;
 }
+.pkp_search {
+    display: none !important;
+}
