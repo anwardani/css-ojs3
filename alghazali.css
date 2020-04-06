@@ -148,7 +148,7 @@ ul.galleys_links li {
     display: none !important;
 }
 .pkp_page_index .additional_content {
-    padding: 20px 10px 30px 10px !important;
+    padding: 30px !important;
     border-bottom: 1px solid #ddd !important;
     text-align: justify;
 }
