@@ -1,0 +1,1 @@
+$('.additional_content').append($('.page_index_journal'));
