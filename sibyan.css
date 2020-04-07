@@ -36,7 +36,7 @@ a:hover { color: #0b6ab0; }
 
 .pkp_structure_page {margin:auto; width: 1162px; padding-bottom: 0 !important; border-left: 1px solid gray; border-right: 1px solid gray; background: url(http://anwardani.github.io/css-ojs3/imgs/backjaps.png); }
 .pkp_structure_content { padding-top: 0; width: 1160px;background: #fff;box-shadow: 1px 1px 5px #d4d5d4}
-.pkp_structure_sidebar .pkp_block .title {font-family: helvetica, calibri; background: #20B2AA; border-left: 10px solid #006; padding: 10px 5px; border-radius: 0 5px 0 0;color: #fff}
+.pkp_structure_sidebar .pkp_block .title {font-family: helvetica, calibri; background: #20B2AA; border-left: 10px solid #058a83; padding: 10px 5px; border-radius: 0 5px 0 0;color: #fff}
 h1,h2,h3,h4,h5,h6 {font-family: 'Titillium Web', helvetica, calibri;}
 
 @media (max-width: 1000px) {
