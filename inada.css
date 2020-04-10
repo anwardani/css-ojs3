@@ -2,7 +2,7 @@
 @import url('https://fonts.googleapis.com/css?family=Yanone+Kaffeesatz&display=swap');
 .journals ul .body .description a {display: inline;}
 html, body, * {font-family: helvetica, calibri; }
-body {background-image: url(http://anwardani.github.io/css-ojs3/imgs/backjaps.png);}
+body {background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcQYpbetHUs2ab7kmtDXyFxgatQ5d3TnQcCYn7fZgdkwtcnRDbBY&usqp=CAU);}
 a { color: #033D67; }
 a:hover { color: #0b6ab0; }
 .cmp_button_wire, .obj_galley_link { background: #033D67; border: 1px solid #033D67; color: #fff; }
@@ -35,7 +35,7 @@ a:hover { color: #0b6ab0; }
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper .pkp_search .search_controls a.headerSearchPrompt.search_prompt {font-family: Sunflower, helvetica, calibri; color: #FFFFFF !important}
 .pkp_navigation_primary_row .pkp_navigation_primary_wrapper .pkp_search.is_open input[type=text] {font-family: Sunflower, helvetica, calibri;}
 
-.pkp_structure_page {margin:auto; width: 1162px; padding-bottom: 0 !important; border-left: 1px solid gray; border-right: 1px solid gray; background: url(http://anwardani.github.io/css-ojs3/imgs/backjaps.png); }
+.pkp_structure_page {margin:auto; width: 1162px; padding-bottom: 0 !important; border-left: 1px solid gray; border-right: 1px solid gray; box-shadow: 1px 1px 5px #6f6f6f; }
 .pkp_structure_content { padding-top: 0; width: 1160px;background: #fff;}
 .pkp_structure_sidebar .pkp_block .title {font-family: 'Titillium Web', helvetica, calibri; background: #8c63bb; border-left: 10px solid #683f97; padding: 10px 5px; border-radius: 0 5px 0 0; color:#fff;}
 h1,h2,h3,h4,h5,h6 {font-family: 'Titillium Web', helvetica, calibri;}
@@ -81,12 +81,9 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Titillium Web', helvetica, calibri;}
 
 .pkp_structure_head {
    border-bottom: 1px solid #ddd;
-/*
-background: url(https://static.vecteezy.com/system/resources/previews/000/171/654/non_2x/global-maps-connection-vector-background.jpg);
-background-position: 0% 30%; */
 }
 .has_site_logo .pkp_head_wrapper { width: 100%; }
-.pkp_site_name, .pkp_navigation_primary_wrapper, .pkp_navigation_user { width: 1162px; }
+.pkp_site_name, .pkp_navigation_primary_wrapper, .pkp_navigation_user { width: 1158px; }
 .pkp_structure_footer_wrapper { background: transparent;}
 .pkp_head_wrapper { padding-top: 30px; }
 .pkp_site_name .is_text {
