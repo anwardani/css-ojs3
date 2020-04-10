@@ -50,7 +50,7 @@ h1,h2,h3,h4,h5,h6 {font-family: 'Titillium Web', helvetica, calibri;}
 #customblock-Sidebar_menu.pkp_block ul, #customblock-Sidebar_menu.pkp_block ul li {margin: 0 !important; padding: 0 !important; list-style: none;}
 #customblock-Sidebar_menu.pkp_block ul li {background: #033D67 !important; border-bottom: solid 1px rgb(204, 164, 99)}
 #customblock-Sidebar_menu.pkp_block ul li:last-child {border-bottom: none}
-#customblock-Sidebar_menu.pkp_block ul li a {background: #033D67 !important; display: block; line-height: 40px; padding: 0 10px 0 20px; color: #FFFFFF;}
+#customblock-Sidebar_menu.pkp_block ul li a {background: #683F97 !important; display: block; line-height: 40px; padding: 0 10px 0 20px; color: #FFFFFF;}
 .pkp_block.block_make_submission .content {margin: 0 !important; padding: 0 !important; text-align: center !important}
 .pkp_block.block_make_submission .content a { background: #033D67; line-height: 40px; font-family : Sunflower, helvetica, calibri; color: #FFFFFF}
 .pkp_block.block_make_submission .content a:hover { background: rgba(0,0,0,0.25) !important;  color: #333333}
