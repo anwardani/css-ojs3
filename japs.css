@@ -132,3 +132,6 @@ ul.galleys_links li {
 #customblock-Sidebar_menu.pkp_block ul li a:hover {
     background: #940000 !important;
 }
+.pkp_site_name {
+    font-size: 0 !important;
+}
