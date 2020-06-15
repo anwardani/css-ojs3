@@ -1,0 +1,22 @@
+.container-fluid,.modal-header,.copy_right {
+    background: #1a6c1c;
+}
+.copy_right a {
+    color: #fff !important;
+}
+.footer-content {
+    background: #03b506;
+    border-top: 2px solid #1a6c1c;
+}
+.navbar {
+    background: #1a6c1c;
+    border-bottom: 3px solid #00a902;
+}
+a {
+    color: #1a6c1c;
+}
+.act {
+    background: #116c11 !important;
+    border-radius: 5px;
+    box-shadow: 1px 1px 1px gray;    
+}
