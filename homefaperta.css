@@ -1,4 +1,4 @@
-.container-fluid,.modal-header,.copy_right {
+#frameheader,#framefooter,.modal-header,.copy_right {
     background: #1a6c1c;
 }
 .copy_right a {
