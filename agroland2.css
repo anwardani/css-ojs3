@@ -1,10 +1,10 @@
 .headerhead,footer {
     background: #00ac04 !important;
 }
-.navigation ul#navigationPrimary li:first-child {
+header .navigation ul#navigationPrimary li:first-child {
     background: #fe0000 !important;
 }
-.navigation ul#navigationPrimary li:first-child::after {
+header .navigation ul#navigationPrimary li:first-child::after {
     border-left-color: #fe0000 !important;
 }
 .tabpageBlock ul.nav-tabs > li > a.active {
