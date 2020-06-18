@@ -2,7 +2,10 @@
     background: #00ac04 !important;
 }
 header .navigation ul#navigationPrimary li:first-child {
-    background: #2f72b8 !important;
+    background: #fed600 !important;
+}
+header .navigation ul#navigationPrimary li:first-child::after {
+    border-left-color: #fed600 !important;
 }
 .tabpageBlock ul.nav-tabs > li > a.active {
     border-bottom: 2px solid #2f72b8;
