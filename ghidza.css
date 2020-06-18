@@ -1,0 +1,19 @@
+.headerhead {
+    background: #fff !important;
+    color: #2e71b7;
+}
+.journal-logo-text, .topSearch .advanceSearch {
+    color: #2e71b7;
+}
+header .navigation ul#navigationPrimary li:first-child {
+    background: #2e71b7 !important;
+}
+.tabpageBlock ul.nav-tabs > li > a.active {
+    border-bottom: 2px solid #2f72b8;
+}
+.btn-primary {
+    color: #00ac04 !important;
+}
+footer a {
+    color: #fff !important;
+}
