@@ -4649,8 +4649,6 @@ background-image: repeating-radial-gradient(circle at center center, transparent
 	display:block;
 	width:100%;
 	height:auto;
-	border-top-left-radius:20px;
-	border-top-right-radius:20px;
 }
 
 .pkp_page_index .additional_content {
@@ -4871,7 +4869,7 @@ ul.galleys_links {
 	line-height:20px;
 }
 .block_make_submission{
-padding: 15px 3px 5px 5px;
+padding: 5px 3px 5px 5px;
 }
 
 .pkp_block .title {
