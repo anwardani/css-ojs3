@@ -3701,8 +3701,13 @@ body.navIsOpen .siteHeader__navToggleIcon > span:last-child {
     text-align: center;
 }
 .pkp_footer_content {
-    padding: 30px;
-    text-align: left;
+    padding: 30px 20px 0 20px;
+    text-align: center;
+}
+.bottom-footer {
+    text-align: right;
+    font-size: 11px;
+    color: #c62121;
 }
 .pkp_brand_footer {
     padding: 30px;
