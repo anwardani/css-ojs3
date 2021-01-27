@@ -4921,35 +4921,35 @@ padding: 15px 3px 5px 5px;
 
 /**************************COLORING*********************************/
 .pkp_structure_head { 
-background-color:#c26177;
+background-color:#eb590a;
 }
 .pkp_block .content {
-background-color:#c26177;
+background-color:#FBB40A;
 }
 .pkp_block .content ul li {
 	padding:0px 0;
-	background-color:#c26177;
+	background-color:#fbb40a;
 }
 .pkp_block li {
    background-color:#c26177;
 }
 .pkp_block ul>li a:hover {
    text-decoration:none;
-   background-color:#bf5e74;
+   background-color:#c8190a;
 }
 .pkp_block .title {
-	background-color:#9a4d38;
+	background-color:#eb590a;
 	color:#ecececec;
 }
 .pkp_structure_footer_wrapper {
-	border-bottom:10px solid #993148;
+	border-bottom:10px solid #c8190a;
 }
 .pkp_site_name .is_img img {
     border: 1px solid white;
     box-shadow: 5px 5px gray;
 }
 .pkp_structure_head::before {
-      background: url(https://i.ytimg.com/vi/GsxuLjyQSC4/maxresdefault.jpg) #3366cc no-repeat center center;
+      background: url(https://wallpaperaccess.com/full/395657.jpg) #3366cc no-repeat center center;
       opacity: 40%;
       box-shadow: inset 8px 3px 20px 1px rgba(0, 0, 0, 0.75);
 }
