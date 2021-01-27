@@ -4596,16 +4596,13 @@ background-image: repeating-radial-gradient(circle at center center, transparent
 
 .pkp_structure_head::before {
       content: "";
-      background: url(https://sadaqaindia.files.wordpress.com/2020/12/close-up-business-people-are-analysis-business-report-with-digital-virtual-screen-business-financial-background.jpg?w=800&h=340&crop=1) #3366cc no-repeat center center;
       background-size: cover;
       position: absolute;
       top: 0px;
       right: 0px;
       bottom: 0px;
       left: 0px;
-      opacity: 20%;
-      box-shadow: inset 8px 3px 20px 1px rgba(0, 0, 0, 0.75);
-  }
+}
 
 
 .pkp_structure_page {
@@ -4950,6 +4947,11 @@ background-color:#c26177;
 .pkp_site_name .is_img img {
     border: 1px solid white;
     box-shadow: 5px 5px gray;
+}
+.pkp_structure_head::before {
+      background: url(https://i.ytimg.com/vi/GsxuLjyQSC4/maxresdefault.jpg) #3366cc no-repeat center center;
+      opacity: 40%;
+      box-shadow: inset 8px 3px 20px 1px rgba(0, 0, 0, 0.75);
 }
 /**************************MEDIA*************************************************/
 
