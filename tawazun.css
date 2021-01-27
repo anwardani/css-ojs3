@@ -4591,9 +4591,7 @@ background-image: repeating-radial-gradient(circle at center center, transparent
   display: flex;
   align-items: center;
   justify-content: center;
-  background-color:#4fa345;
   margin-bottom:.25em;
-
 }
 
 .pkp_structure_head::before {
@@ -4874,32 +4872,18 @@ padding: 15px 3px 5px 5px;
 
 .pkp_block .title {
 	width:100%;
-	background-color:#139646;
 	height:30px;
 	font-size:13px;
-	color:#ecececec;
 	padding-top:0.4em;
 	margin-bottom:0px;
 	border:0px;
-	text-align:center;
-	
+	text-align:center;	
 	font-family:'Source Sans Pro', sans-serif;
-}
-
-.pkp_block .content {
-	background-color:#82cc9f;
-
-}
-
-.pkp_block .content ul li {
-	padding:0px 0;
-	background-color:#139646;
 }
 
 .pkp_block li {
    border-radius:0;
    position:relative;
-   background-color:#f1f1f1;
    display:block;
 }
 
@@ -4912,12 +4896,6 @@ padding: 15px 3px 5px 5px;
 	padding:.75rem 1rem;
    display:flex;
 }
-
-.pkp_block ul>li a:hover {
-   text-decoration:none;
-   background-color:#7ab241;
-}
-
 
 
 /**************************Announcement block*************************************************/
@@ -4932,7 +4910,6 @@ padding: 15px 3px 5px 5px;
 .pkp_structure_footer_wrapper {
 	border-top:none;
 	font-size:15px;
-	border-bottom:10px solid #044d20;
 }
 
 .pkp_footer_content a {
@@ -4945,8 +4922,32 @@ padding: 15px 3px 5px 5px;
 	text-decoration:none;
 }
 
+/**************************COLORING*********************************/
+.pkp_structure_head { 
+background-color:#c26177;
+}
+.pkp_block .content {
+background-color:#c26177;
+}
+.pkp_block .content ul li {
+	padding:0px 0;
+	background-color:#c26177;
+}
+.pkp_block li {
+   background-color:#c26177;
+}
+.pkp_block ul>li a:hover {
+   text-decoration:none;
+   background-color:#bf5e74;
+}
+.pkp_block .title {
+	background-color:#9a4d38;
+	color:#ecececec;
+}
 
-
+.pkp_structure_footer_wrapper {
+	border-bottom:10px solid #993148;
+}
 /**************************MEDIA*************************************************/
 
 /* Tablet in modalitÃ  verticale */
