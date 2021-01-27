@@ -4944,9 +4944,12 @@ background-color:#c26177;
 	background-color:#9a4d38;
 	color:#ecececec;
 }
-
 .pkp_structure_footer_wrapper {
 	border-bottom:10px solid #993148;
+}
+.pkp_site_name .is_img img {
+    border: 1px solid white;
+    box-shadow: 5px 5px gray;
 }
 /**************************MEDIA*************************************************/
 
